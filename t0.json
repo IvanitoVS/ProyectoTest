@@ -1,0 +1,905 @@
+{
+    "temas": [
+        {
+            "id": "farmacologia",
+            "nombre": "FARMACOLOGÍA"
+        },
+        {
+            "id": "medicina_interna",
+            "nombre": "MEDICINA INTERNA"
+        },
+        {
+            "id": "imagenologia",
+            "nombre": "IMAGENOLOGÍA ORAL Y DIAGNÓSTICO"
+        },
+        {
+            "id": "oclusion",
+            "nombre": "OCLUSIÓN"
+        },
+        {
+            "id": "endodoncia",
+            "nombre": "ENDODONCIA"
+        },
+        {
+            "id": "operatoria_dental",
+            "nombre": "OPERATORIA DENTAL"
+        },
+        {
+            "id": "ortodoncia",
+            "nombre": "ORTODONCIA"
+        },
+        {
+            "id": "protesis_placa",
+            "nombre": "PRÓTESIS A PLACA"
+        },
+        {
+            "id": "periodoncia",
+            "nombre": "PERIODONCIA"
+        },
+        {
+            "id": "cirugia",
+            "nombre": "CIRUGÍA"
+        },
+        {
+            "id": "protesis_fija",
+            "nombre": "PRÓTESIS FIJA"
+        },
+        {
+            "id": "biomateriales",
+            "nombre": "BIOMATERIALES DENTALES"
+        },
+        {
+            "id": "odontopediatria",
+            "nombre": "ODONTOPEDIATRIA"
+        }, {
+            "id": "seccion_visual",
+            "nombre": "SECCIÓN VISUAL"
+        }
+        
+    ],
+    "preguntas": [
+        {
+            "id_global": 1,
+            "tema__id": "farmacologia",
+            "pregunta": "PACIENTE MUJER DE 35 AÑOS DE EDAD CON 6 MESES DE EMBARAZO ACUDE A CENTRO DE SALUD PARA REALIZAR EXODONCIA DE PIEZA DENTAL Nº 34. FRENTE A ESTE CASO USTED ESCOGE EL ANESTÉSICO IDEAL",
+            "opciones": [
+                {"opcion": "a", "texto": "Mepivacaína"},
+                {"opcion": "b", "texto": "Bupivacaína"},
+                {"opcion": "c", "texto": "Procaína"},
+                {"opcion": "d", "texto": "Mepivacaína"}
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id_global": 2,
+            "tema_id": "farmacologia",
+            "pregunta": "PACIENTE MUJER DE 60 AÑOS, HIPERTENSA, TRATADA FARMACOLÓGICAMENTE, AL MOMENTO CON: 130/90 MMHG, CON NECESIDAD DE EXODONCIA. FRENTE A ESTE CASO EL ANESTÉSICO IDEAL SERÍA",
+            "opciones": [
+                {"opcion": "a", "texto": "Mepivacaína con epinefrina"},
+                {"opcion": "b", "texto": "Bupivacaína con epinefrina"},
+                {"opcion": "c", "texto": "Prilocaína sin epinefrina"},
+                {"opcion": "d", "texto": "Bupivacaína sin epinefrina"}
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id_global": 3,
+            "tema_id": "farmacologia",
+            "pregunta": "PACIENTE EMBARAZADA DE 3 MESES, CON INFLAMACIÓN Y EDEMA DE CARA, POR PATOLOGÍA DENTAL, SE NECESITA TRATAR LA SINTOMATOLOGÍA. EL TRATAMIENTO IDEAL, SERÍA",
+            "opciones": [
+                {"opcion": "a", "texto": "Naproxeno 500 mg. tid"},
+                {"opcion": "b", "texto": "Piroxicam 40 mg. qd"},
+                {"opcion": "c", "texto": "PMeloxicam 15 mg. qd"},
+                {"opcion": "d", "texto": "Paracetamol 500 mg. Bid"}
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id_global": 4,
+            "tema_id": "farmacologia",
+            "pregunta": "PACIENTE VARÓN DE 18 AÑOS, CON INFECCIÓN ALVEOLAR, DE UNA SEMANA DE EVOLUCIÓN. COMO PASO PREVIO A LA INTERVENCIÓN, USTED PRESCRIBE EL ANTIBIÓTICO MÁS ADECUADO",
+            "opciones": [
+                {"opcion": "a", "texto": "Trimetoprim sulfametoxazol 80/400 mg. bid"},
+                {"opcion": "b", "texto": "Cefalexina 500 mg. bid"},
+                {"opcion": "c", "texto": "Cefadroxilo 500 mg. bid"},
+                {"opcion": "d", "texto": "Amoxicilina 500 mg. tid"}
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id_global": 5,
+            "tema_id": "farmacologia",
+            "pregunta": "PACIENTE VARÓN DE 5 AÑOS, CON INFECCIÓN DENTO ALVEOLAR, PRODUCIDA POR GERMEN GRAM POSITIVO, DE UNA SEMANA DE EVOLUCIÓN, NO ALÉRGICA A PENICILINA. FRENTE A ESTE CASO, EL ANTIBIÓTICO MÁS ADECUADO SERÍA",
+            "opciones": [
+                {"opcion": "a", "texto": "Cloranfenicol 250 mg. tid"},
+                {"opcion": "b", "texto": "Tetraciclina 250 mg. tid"},
+                {"opcion": "c", "texto": "Trimetoprim sulfametoxazol 80/400 mg. bid"},
+                {"opcion": "d", "texto": "Amoxicilina 250 mg. tid"}
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id_global": 6,
+            "tema_id": "farmacologia",
+            "pregunta": "PACIENTE VARÓN DE 5 AÑOS DE EDAD CON INFECCIÓN DENTO ALVEOLAR, A NIVEL DEL DIENTE Nº 55 DE UNA SEMANA EVOLUTIVA, ALÉRGICO A PENICILINAS, ESCOJA EL MEJOR TRATAMIENTO",
+            "opciones": [
+                {"opcion": "a", "texto": "Cloranfenicol 250 mg. tid"},
+                {"opcion": "b", "texto": "Eritromicina 250 mg. tid"},
+                {"opcion": "c", "texto": "Amoxicilina 250 mg. tid"},
+                {"opcion": "d", "texto": "Cotrimoxazol 80/400 mg. Tid"}
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id_global": 7,
+            "tema_id": "farmacologia",
+            "pregunta": "ACUDE A SU CONSULTORIO UN PACIENTE VARÓN, ADULTO JOVEN, NO SUFRE DE PATOLOGÍA ALGUNA, NECESITA EXODONCIA DE PIEZA DENTAL Nº 3 7. EL TRATAMIENTO IDEAL SERÍA",
+            "opciones": [
+                {"opcion": "a", "texto": "Ibuprofeno 400 mg. tid"},
+                {"opcion": "b", "texto": "Naproxeno 1 g. tid"},
+                {"opcion": "c", "texto": "Piroxicam 40 mg. qd"},
+                {"opcion": "d", "texto": "Meloxicam 30 mg. Qd"}
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id_global": 8,
+            "tema_id": "farmacologia",
+            "pregunta": "PACIENTE MUJER DE 20 AÑOS, OBSTRUIDA LAS VÍAS RESPIRATORIAS SUPERIORES POR UN HUESO DE POLLO INGERIDO EN EL ALMUERZO. LA MANIOBRA MÁS ADECUADA QUE USTED UTILIZARÍA ES",
+            "opciones": [
+                {"opcion": "a", "texto": "Maniobra de Velásquez"},
+                {"opcion": "b", "texto": "Maniobra de Caballero"},
+                {"opcion": "c", "texto": "Maniobra de Heinlich"},
+                {"opcion": "d", "texto": "Maniobra de Muñoz"}
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id_global": 9,
+            "tema_id": "farmacologia",
+            "pregunta": "PACIENTE VARÓN DE 21 AÑOS DE EDAD, SISTÉMICAMENTE SANO CON EXACERBACIÓN DE ASMA BRONQUIAL AGUDA. EL TRATAMIENTO MÁS ADECUADO QUE UD ESCOGERÍA ES",
+            "opciones": [
+                {"opcion": "a", "texto": "Beclometasona"},
+                {"opcion": "b", "texto": "Salbutamol"},
+                {"opcion": "c", "texto": "Loratadina"},
+                {"opcion": "d", "texto": "Todos los anteriores"}
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id_global": 10,
+            "tema_id": "farmacologia",
+            "pregunta": "UN PACIENTE SEXO MASCULINO, DE 34 AÑOS DE EDAD SE REALIZA UNA CIRUGÍA DENTAL DE PIEZA Nº 38, BAJO ANESTESIA GENERAL PRESENTA DEPRESIÓN RESPIRATORIA POR ANALGÉSICO NARCÓTICO TIPO MORFINA, EL TRATAMIENTO MÁS ADECUADO ES",
+            "opciones": [
+                {"opcion": "a", "texto": "Niquetamida"},
+                {"opcion": "b", "texto": "Doxaprem"},
+                {"opcion": "c", "texto": "Naloxona"},
+                {"opcion": "d", "texto": "Heroína"}
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id_global": 11,
+            "tema_id": "farmacologia",
+            "pregunta": "PACIENTE DEL SEXO FEMENINO, 23 AÑOS SE REALIZA INTERVENCIÓN QUIRÚRGICA DE PIEZA DENTAL Nº 46, BAJO ANESTESIA GENERAL CON BARBITÚRICO TIPO FENOBARBITAL PRESENTA DEPRESIÓN RESPIRATORIA. EL TRATAMIENTO MÁS ADECUADO ES",
+            "opciones": [
+                {"opcion": "a", "texto": "Niquetamida"},
+                {"opcion": "b", "texto": "Nalorfina"},
+                {"opcion": "c", "texto": "Naloxona"},
+                {"opcion": "d", "texto": "Heroína"}
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id_global": 12,
+            "tema_id": "farmacologia",
+            "pregunta": "PACIENTE DEL SEXO FEMENINO, DE 37 AÑOS, CON DIAGNÓSTICO DE HEMOFILIA A, RELATA PRESENTAR CONTINUOS SANGRADOS DEL TIPO HEMORRAGIAS, AL REALIZARSE EXODONCIA DE PIEZA Nº 45. USTED ESCOGERÍA EL MEJOR TRATAMIENTO",
+            "opciones": [
+                {"opcion": "a", "texto": "Vitamina K"},
+                {"opcion": "b", "texto": "Factor VIII"},
+                {"opcion": "c", "texto": "Factor IX"},
+                {"opcion": "d", "texto": "Paquete globular"}
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id_global": 13,
+            "tema_id": "farmacologia",
+            "pregunta": "PACIENTE DEL SEXO MASCULINO, DE 30 AÑOS DE EDAD ACUDE A SU CONSULTA EN BUSCA DE UNA EXODONCIA DE `PIEZA DENTAL Nº 24, PRESENTA SANGRADO TIPO HEMORRAGIA POR HEMOFILIA B. EL TRATAMIENTO MÁS ADECUADO ES",
+            "opciones": [
+                {"opcion": "a", "texto": "Vitamina K"},
+                {"opcion": "b", "texto": "Factor VIII"},
+                {"opcion": "c", "texto": "Factor IX"},
+                {"opcion": "d", "texto": "Paquete globular"}
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id_global": 14,
+            "tema_id": "farmacologia",
+            "pregunta": "PACIENTE DEL SEXO FEMENINO, DE 15 AÑOS DE EDAD, SANA, POR UNA EXODONCIA DE PIEZA DENTAL Nº 36. AL EXAMEN CLÍNICO USTED OBSERVA SANGRADO ABUNDANTE. EL TRAT. MÁS ADECUADO SERÍA",
+            "opciones": [
+                {"opcion": "a", "texto": "Ácido tánico y tranexámico"},
+                {"opcion": "b", "texto": "Vasoconstrictores"},
+                {"opcion": "c", "texto": "Sutura del alveolo"},
+                {"opcion": "d", "texto": "Todas las anteriores"}
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id_global": 15,
+            "tema_id": "farmacologia",
+            "pregunta": "FRENTE A UN PACIENTE VARÓN DE 65 AÑOS DE EDAD, QUE SE ACERCA A BUSCAR ATENCIÓN ODONTOLÓGICA, DAMOS TRAT. FARMACOLÓGICO, PERO AJUSTAMOS DOSIS POR PRESENTAR",
+            "opciones": [
+                {"opcion": "a", "texto": "Inmadurez del tejido hepático"},
+                {"opcion": "b", "texto": "Enfermedades del corazón"},
+                {"opcion": "c", "texto": "Degeneración de tejidos"},
+                {"opcion": "d", "texto": "Enfermedades de hígado"}
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id_global": 16,
+            "tema_id": "farmacologia",
+            "pregunta": "EN UN PACIENTE DEL SEXO FEMENINO, CON 2 AÑOS DE EDAD, QUE ACUDE AL CONSULTORIO ODONTOLÓGICO, DAMOS TRATAMIENTO FARMACOLÓGICO POR PRESENTAR INFLAMACIÓN DE ENCÍAS EN LA ARCADA INFERIOR AJUSTAMOS DOSIS POR:",
+            "opciones": [
+                {"opcion": "a", "texto": "Inmadurez del tejido hepático"},
+                {"opcion": "b", "texto": "Enfermedades renales"},
+                {"opcion": "c", "texto": "Degeneración de los tejidos"},
+                {"opcion": "d", "texto": "Enfermedades de hígado"}
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id_global": 17,
+            "tema_id": "farmacologia",
+            "pregunta": "PACIENTE DEL SEXO FEMENINO, CON 18 AÑOS DE EDAD, EMBARAZADA DE 14 SEMANAS, NECESITA TRATAMIENTO ODONTOLÓGICO REALIZANDO UNA EXODONCIA DE PIEZA DENTAL Nº 41. USTED COLOCA UN ANESTÉSICO DEL TIPO",
+            "opciones": [
+                {"opcion": "a", "texto": "Lidocaína"},
+                {"opcion": "b", "texto": "Prilocaína"},
+                {"opcion": "c", "texto": "Benzocaína"},
+                {"opcion": "d", "texto": "Bupivacaína"}
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id_global": 18,
+            "tema_id": "farmacologia",
+            "pregunta": "PACIENTE DEL SEXO MASCULINO DE 25 AÑOS DE EDAD, SIN ANTECEDENTES PATOLÓGICOS, NECESITA TRATAMIENTO ODONTOLÓGICO DE PROFILAXIS EN ARCADA INFERIOR. USTED COLOCA UN ANESTÉSICO DEL TIPO",
+            "opciones": [
+                {"opcion": "a", "texto": "Lidocaína"},
+                {"opcion": "b", "texto": "Prilocaína"},
+                {"opcion": "c", "texto": "Benzocaína"},
+                {"opcion": "d", "texto": "Bupivacaína"}
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id_global": 19,
+            "tema_id": "farmacologia",
+            "pregunta": "EN UN PACIENTE DEL SEXO MASCULINO, DE 73 AÑOS, HIPERTENSO DESDE HACE 20 AÑOS BAJO TRATAMIENTO FARMACOLÓGICO, NECESITA EXODONCIA DE PIEZA DENTAL Nº 44. USTED COLOCA UN ANESTÉSICO DEL TIPO",
+            "opciones": [
+                {"opcion": "a", "texto": "Lidocaína"},
+                {"opcion": "b", "texto": "Prilocaína"},
+                {"opcion": "c", "texto": "Mepivacaína"},
+                {"opcion": "d", "texto": "Bupivacaína"}
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id_global": 20,
+            "tema_id": "farmacologia",
+            "pregunta": "PACIENTE DEL SEXO FEMENINO, DE 31 AÑOS, BAJO ANESTESIA LOCAL DE BUPIVACAÍNA, SE OBSERVA SINTOMATOLOGÍA DE TOXICIDAD POR PRESENTAR",
+            "opciones": [
+                {"opcion": "a", "texto": "Depresión y confusión"},
+                {"opcion": "b", "texto": "Nistagmus y hipotensión"},
+                {"opcion": "c", "texto": "Colapso cardiovascular"},
+                {"opcion": "d", "texto": "Todas las anteriores"}
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id_global": 21,
+            "tema_id": "farmacologia",
+            "pregunta": "EN UN PACIENTE DEL SEXO FEMENINO, DE 45 AÑOS DE EDAD, ALÉRGICO A PENICILINAS, DESPUÉS DE REALIZAR TRATAMIENTO QUIRÚRGICO EN ABSCESO DE PIEZA DENTAL Nº 41. EL MEJOR TRATAMIENTO ANTIBIÓTICO ES",
+            "opciones": [
+                {"opcion": "a", "texto": "Azitromicina"},
+                {"opcion": "b", "texto": "Eritromicina"},
+                {"opcion": "c", "texto": "Josamicina"},
+                {"opcion": "d", "texto": "Todas las anteriores"}
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id_global": 22,
+            "tema_id": "farmacologia",
+            "pregunta": "EN UN PACIENTE DEL SEXO MASCULINO, DE 8 AÑOS DE EDAD, PRESENTA MANCHAS DE COLOR PARDO-AMARILLENTO DESPUÉS DE UN TRATAMIENTO ANTIBIÓTICO EN INCISIVOS SUPERIORES E INFERIORES. RADIOGRÁFICAMENTE NO HAY MAYORES DETALLES EN LAS PIEZAS. USTED CREE QUE FUE POR USO DE",
+            "opciones": [
+                {"opcion": "a", "texto": "Amikacina"},
+                {"opcion": "b", "texto": "Tetraciclina"},
+                {"opcion": "c", "texto": "Cloranfenicol"},
+                {"opcion": "d", "texto": "Midecamicina"}
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id_global": 23,
+            "tema_id": "farmacologia",
+            "pregunta": "EN UN LACTANTE DEL SEXO MASCULINO, QUE ACUDE AL CONSULTORIO ODONTOLÓGICO POR PRESENTAR FIEBRE Y ESCALOFRÍO LUEGO DE BROTAR LOS INCISIVOS INFERIORES. EL PACIENTE TIENE UNA COLORACIÓN GRIS EN TODO SU CUERPO. SE SOSPECHA DE SÍNDROME GRIS POR USO DE",
+            "opciones": [
+                {"opcion": "a", "texto": "Amikacina"},
+                {"opcion": "b", "texto": "Tetraciclina"},
+                {"opcion": "c", "texto": "Cloranfenicol"},
+                {"opcion": "d", "texto": "Midecamicina"}
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id_global": 24,
+            "tema_id": "farmacologia",
+            "pregunta": "EN UN PACIENTE DEL SEXO FEMENINO, DE 17 AÑOS DE EDAD, CON INFECCIÓN DEL TEJIDO PERIODONTAL DE ARCADA INFERIOR, PRESENTA FIEBRE Y ESCAOLOFRÌOS. USTED UTILIZA EL MEJOR TRATAMIENTO ANTIBIÓTICO QUE ES",
+            "opciones": [
+                {"opcion": "a", "texto": "Zidovudina"},
+                {"opcion": "b", "texto": "Interferón"},
+                {"opcion": "c", "texto": "Metronidazol"},
+                {"opcion": "d", "texto": "Cotrimoxazol"}
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id_global": 25,
+            "tema_id": "farmacologia",
+            "pregunta": "EN UN PACIENTE DEL SEXO MASCULINO, DE 41 AÑOS DE EDAD ,SISTÉMICAMENTE SANO, CON TOS CRÓNICA DE 2 AÑOS DE EVOLUCIÓN SE REALIZA UN EXAMEN DE ESPUTO QUE REPORTA MICOBACTERIA TUBERCULOSA, Y DIAGNÓSTICO DE TUBERCULOSIS AGUDA, EL TRATAMIENTO IDEAL ES",
+            "opciones": [
+                {"opcion": "a", "texto": "Isoniazida"},
+                {"opcion": "b", "texto": "Rifampicina"},
+                {"opcion": "c", "texto": "Pirazinamida"},
+                {"opcion": "d", "texto": "Todas las anteriores"}
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id_global": 26,
+            "tema_id": "farmacologia",
+            "pregunta": "EN UN PACIENTE DEL SEXO MASCULINO, 32 AÑOS DE EDAD, ALÉRGICO A SULFAS, DIAGNOSTICADO POR SU MÉDICO DE BRONQUITIS AGUDA, Y NECESITA TRATAMIENTO FARMACOLÓGICO, UNO DE ESTOS ANTIBIÓTICOS LE OCASIONA SU ALERGIA",
+            "opciones": [
+                {"opcion": "a", "texto": "Enoxacino"},
+                {"opcion": "b", "texto": "Cotrimoxazol"},
+                {"opcion": "c", "texto": "Pefloxacino"},
+                {"opcion": "d", "texto": "Ofloxacino"}
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id_global": 27,
+            "tema_id": "farmacologia",
+            "pregunta": "EN UN PACIENTE DEL SEXO FEMENINO, DE 54 AÑOS DE EDAD, ALÉRGICO A PENICILINA, NECESITA TRATAMIENTO FARMACOLÓGICO POR UN PROCESO INFECCIOSO EN LA BOCA. FRENTE A ESTE CUADRO USTED DEBE RECETAR",
+            "opciones": [
+                {"opcion": "a", "texto": "Clindamicina"},
+                {"opcion": "b", "texto": "Estreptomicina"},
+                {"opcion": "c", "texto": "Vancomicina"},
+                {"opcion": "d", "texto": "Daptomicina"}
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id_global": 28,
+            "tema_id": "farmacologia",
+            "pregunta": "AL UTILIZAR UN ANESTÉSICO LOCAL EN UN PACIENTE VARÓN DE 45 AÑOS QUE NECESITA TRATAMIENTO ODONTOLÓGICO PARA REALIZAR ENDODONCIA D E PIEZA DENTAL Nº 46 , OCASIONA ERITEMA EN LA CARA DEL PACIENTE Y PRURITO, QUÍMICAMENTE HABLANDO EL CAUSANTE ES",
+            "opciones": [
+                {"opcion": "a", "texto": "Grupo lipófilo"},
+                {"opcion": "b", "texto": "Cadena hidrocarbonada"},
+                {"opcion": "c", "texto": "Grupo hidrófilo ionizable"},
+                {"opcion": "d", "texto": "Grupo ácido graso saturado"}
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id_global": 29,
+            "tema_id": "farmacologia",
+            "pregunta": "EN UN PACIENTE DEL SEXO MASCULINO, VARÓN, DE 43 AÑOS DE EDAD, EN EL SILLÓN ODONTOLÓGICO SE INFARTA PRESENTANDO DOLOR PRECORDIAL, SUDORACIÓN, MALESTAR. EL MEJOR TRATAMIENTO SERÍA",
+            "opciones": [
+                {"opcion": "a", "texto": "En decúbito"},
+                {"opcion": "b", "texto": "Morfina"},
+                {"opcion": "c", "texto": "Óxido nitroso"},
+                {"opcion": "d", "texto": "Oxígeno terapia"}
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id_global": 30,
+            "tema_id": "farmacologia",
+            "pregunta": "EN UN PACIENTE DEL SEXO MASCULINO, DE 53 AÑOS DE EDAD, QUE SE CANSA AL CAMINAR DISTANCIAS LARGAS ES DIAGNOSTICADO POR SU CARDIÓLOGO DE ARRITMIA CARDIACA LEVE DESDE HACE UN MES. USTED CONSIDERA QUE EL MEJOR TRATAMIENTO ES",
+            "opciones": [
+                {"opcion": "a", "texto": "Digoxina"},
+                {"opcion": "b", "texto": "Verapamilo"},
+                {"opcion": "c", "texto": "Atenolol y cardioversión"},
+                {"opcion": "d", "texto": "Enalapril"}
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id_global": 31,
+            "tema_id": "farmacologia",
+            "pregunta": "UNA PACIENTE EMBARAZADA DE 27 AÑOS DE EDAD, CON DOLOR E INFLAMACIÓN EN ENCÍAS, EL ODONTÓLOGO DE CONFIANZA DIAGNOSTICA GINGIVITIS ULCERATIVA AGUDA. USTED CONSIDERA QUE EL ANTIBIÓTICO MÁS ADECUADO ES",
+            "opciones": [
+                {"opcion": "a", "texto": "Imipenem"},
+                {"opcion": "b", "texto": "Aztreonam"},
+                {"opcion": "c", "texto": "Amoxicilina"},
+                {"opcion": "d", "texto": "Penicilina"}
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id_global": 32,
+            "tema_id": "farmacologia",
+            "pregunta": "UN NIÑO RECIÉN NACIDO DIAGNOSTICADO DE INFECCIÓN NEONATAL POR RUPTURA PREMATURA DE MEMBRANAS PRESENTA PIEL DE COLOR GRIS Y MALESTAR GENERAL A LAS POCAS HORAS DE HABER RECIBIDO ESTE ANTIBIÓTICO",
+            "opciones": [
+                {"opcion": "a", "texto": "Tetraciclina"},
+                {"opcion": "b", "texto": "Cloranfenicol"},
+                {"opcion": "c", "texto": "Estreptomicina"},
+                {"opcion": "d", "texto": "Midecamicina"}
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id_global": 33,
+            "tema_id": "farmacologia",
+            "pregunta": "PACIENTE NIÑA DE 7 AÑOS DE EDAD, CON TRATAMIENTO FARMACOLÓGICO POR PRESENTAR ABSCESO DENTOALVEOLAR DE PIEZA DENTAL Nº 32 SE OBSERVA AL CABO DE POCOS DÍAS UNAS MANCHAS COLOR PARDO AMARILLENTO EN LOS DIENTES ANTERIORES. USTED CONSIDERA QUE LA CAUSA FUE",
+            "opciones": [
+                {"opcion": "a", "texto": "Tetraciclina"},
+                {"opcion": "b", "texto": "Cloranfenicol"},
+                {"opcion": "c", "texto": "Estreptomicina"},
+                {"opcion": "d", "texto": "Midecamicina"}
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id_global": 34,
+            "tema_id": "farmacologia",
+            "pregunta": "UNA PACIENTE DE 27 AÑOS DE EDAD, EMBARAZADA DE 6 MESES, PRESENTA INFECCIÓN EN TEJIDO GINGIVAL DE PIEZAS Nº 41 Y 42 . USTED CONSIDERA QUE EL MEJOR TRATAMIENTO ES",
+            "opciones": [
+                {"opcion": "a", "texto": "Imipenem"},
+                {"opcion": "b", "texto": "Cefalexina"},
+                {"opcion": "c", "texto": "Aztreonam"},
+                {"opcion": "d", "texto": "Penicilina v"}
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id_global": 35,
+            "tema_id": "farmacologia",
+            "pregunta": "PACIENTE DE 73 AÑOS DE EDAD, NECESITA TRATAMIENTO ANTIINFLAMATORIO POR GINGIVITIS EN LA ARCADA INFERIOR, CONSIDERANDO LA EDAD DEL PACIENTE UNO DE ESTOS FÁRMACOS ESTÁ CONTRAINDICADO, POR TENER UNA VIDA MEDIA LARGA, ÉSTA DROGA ES",
+            "opciones": [
+                {"opcion": "a", "texto": "Tenoxicam"},
+                {"opcion": "b", "texto": "Piroxicam"},
+                {"opcion": "c", "texto": "Tolmetina"},
+                {"opcion": "d", "texto": "Meloxicam"}
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id_global": 36,
+            "tema_id": "farmacologia",
+            "pregunta": "PACIENTE DE 80 AÑOS EDAD, DIAGNOSTICADO POR SU CARDIÓLOGO DE CARDIOPATÍA HIPERTENSIVA NECESITA TRATAMIENTO FARMACOLÓGICO POR INFLAMACIÓN DE TEJIDO GINGIVAL EN LA ARCADA INFERIOR. USTED CONSIDERA QUE EL TRATAMIENTO MÁS INDICADO ES",
+            "opciones": [
+                {"opcion": "a", "texto": "Etodolaco"},
+                {"opcion": "b", "texto": "Meloxicam"},
+                {"opcion": "c", "texto": "Ibuprofeno"},
+                {"opcion": "d", "texto": "Celecoxib"}
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id_global": 37,
+            "tema_id": "farmacologia",
+            "pregunta": "PACIENTE VARÓN DE 66 AÑOS DE EDAD, DIAGNOSTICADO POR SU CARDIÓLOGO DE CARDIOPATÍA HIPERTENSIVA, NECESITA TRATAMIENTO FARMACOLÓGICO POR INFLAMACIÓN DE TEJIDOS ADYACENTES A PIEZA DENTAL Nº 37, CONSIDERANDO SU EDAD Y SU PATOLOGÍA ESTÁ CONTRAINDICADO LA DROGA",
+            "opciones": [
+                {"opcion": "a", "texto": "Indometacina"},
+                {"opcion": "b", "texto": "Diclofenaco"},
+                {"opcion": "c", "texto": "Nimesulide"},
+                {"opcion": "d", "texto": "Celecoxib"}
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id_global": 38,
+            "tema_id": "farmacologia",
+            "pregunta": "PACIENTE DE 52 AÑOS DE EDAD, DIAGNOSTICADO POR SU MÉDICO GASTROENTERÓLOGO DE GASTRITIS AGUDA, NECESITA TRATAMIENTO FARMACOLÓGICO POR INFLAMACIÓN DE TEJIDO GINGIVAL ALREDEDOR DE PIEZA DENTAL Nº 46, CONSIDERANDO SU CONDICIÓN PATOLÓGICA DE ESTÓMAGO. USTED CONSIDERA QUE EL MEJOR TRATAMIENTO ES",
+            "opciones": [
+                {"opcion": "a", "texto": "Ácido acetilsalicílico"},
+                {"opcion": "b", "texto": "Paracetamol"},
+                {"opcion": "c", "texto": "Ibuprofeno"},
+                {"opcion": "d", "texto": "Piroxicam"}
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id_global": 39,
+            "tema_id": "farmacologia",
+            "pregunta": "UNA PACIENTE MUJER DE 52 AÑOS DE EDAD LLEGA A SU CONSULTORIO, DIAGNOSTICADA POR SU MÉDICO DE GASTRITIS AGUDA, NECESITA TRATAMIENTO FARMACOLÓGICO POR INFLAMACIÓN DEL TEJIDO GINGIVAL ALREDEDOR DE LA PIEZA DENTAL Nº 21, CONSIDERANDO SU CONDICIÓN PATOLÓGICA DE BASE ESTÁ CONTRAINDICADA LA DROGA",
+            "opciones": [
+                {"opcion": "a", "texto": "Ácido acetilsalicílico"},
+                {"opcion": "b", "texto": "Fenilbutazona"},
+                {"opcion": "c", "texto": "Ibuprofeno"},
+                {"opcion": "d", "texto": "Paracetamol"}
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id_global": 40,
+            "tema_id": "farmacologia",
+            "pregunta": "PACIENTE DE 47 AÑOS DE EDAD, DEL SEXO FEMENINO, ACUDE A SU CONSULTORIO ODONTOLÓGICO PARA REALIZARSE EXODONCIA DE LA PIEZA DENTAL Nº 27 REFIERE ANTECEDENTES DE NERVIOSISMO Y DESMAYO FRECUENTE. USTED CONSIDERA QUE LA MEJOR ALTERNATIVA PARA HACER PRE MEDICACIÓN TRANQUILIZANTE ES",
+            "opciones": [
+                {"opcion": "a", "texto": "clorazepato"},
+                {"opcion": "b", "texto": "cloridiazepoxido"},
+                {"opcion": "c", "texto": "diazepam"},
+                {"opcion": "d", "texto": "flurazepam"}
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id_global": 41,
+            "tema_id": "farmacologia",
+            "pregunta": "PACIENTE DE 51 AÑOS DE EDAD, DEL SEXO MASCULINO, ACUDE A SU CONSULTORIO ODONTOLÓGICO PARA REALIZARSE PROFILAXIS DE LAS PIEZAS DENTALES DE LA ARCADA SUPERIOR, REFIERE ANTECEDENTES DE NERVIOSISMO Y DESMAYO FRECUENTE. USTED DECIDE QUE LA MEJOR OPCIÓN PARA HACER PRE MEDICACIÓN TRANQUILIZANTE ES",
+            "opciones": [
+                {"opcion": "a", "texto": "Alprazolam"},
+                {"opcion": "b", "texto": "Clorazepato"},
+                {"opcion": "c", "texto": "Clordiazepóxido"},
+                {"opcion": "d", "texto": "Flurazepam"}
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id_global": 42,
+            "tema_id": "farmacologia",
+            "pregunta": "PACIENTE VARÓN DE 8 AÑOS, CON INFECCIÓN DENTO ALVEOLAR DE LA PIEZA DENTAL Nº 12 DE UNA SEMANA DE EVOLUCIÓN, BUSCA ATENCIÓN ODONTOLÓGICA PARA SOLUCIONAR SU PROBLEMA DE SALUD. USTED CONSIDERA QUE LA MEJOR OPCIÓN FARMACOLÓGICA ES",
+            "opciones": [
+                {"opcion": "a", "texto": "Amoxicilina 250 mg. Tid"},
+                {"opcion": "b", "texto": "Cloranfenicol 250 mg. Tid"},
+                {"opcion": "c", "texto": "Tetraciclina 250 mg. Tid"},
+                {"opcion": "d", "texto": "Trimetoprim 80/400 mg. Bid"}
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id_global": 43,
+            "tema_id": "farmacologia",
+            "pregunta": "PACIENTE DEL SEXO FEMENINO, DE 37 AÑOS, PRESENTA SANGRADO TIPO HEMORRAGIA EN PACIENTE DIAGNOSTICADO DE HEMOFILIA A, POR UNA EXODONCIA DE PIEZA DENTAL Nº 28. EL MEJOR TRATAMIENTO ES",
+            "opciones": [
+                {"opcion": "a", "texto": "Vitamina K"},
+                {"opcion": "b", "texto": "Factor IX"},
+                {"opcion": "c", "texto": "Factor VIII"},
+                {"opcion": "d", "texto": "Paquete globular"}
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id_global": 44,
+            "tema_id": "farmacologia",
+            "pregunta": "EN UN PACIENTE VARÓN DE 65 AÑOS DE EDAD, CON ENFERMEDAD CRÓNICA ARTICULAR PROPIA DE LA EDAD, NECESITA TRATAMIENTO FARMACOLÓGICO, PERO AJUSTANDO DOSIS POR",
+            "opciones": [
+                {"opcion": "a", "texto": "Por inmadurez del tejido hepático"},
+                {"opcion": "b", "texto": "Degeneración y envejecimiento de tejidos"},
+                {"opcion": "c", "texto": "Enfermedades del corazón"},
+                {"opcion": "d", "texto": "Enfermedades de hígado"}
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id_global": 45,
+            "tema_id": "farmacologia",
+            "pregunta": "AL UTILIZAR UN ANESTÉSICO LOCAL EN UN PACIENTE VARÓN DE 55 AÑOS DE EDAD QUE NECESITA TRATAMIENTO ODONTOLÓGICO PARA REALIZAR EXODONCIA DE PIEZA DENTAL Nº 46 OCASIONA ERITEMA Y PRURITO, QUÍMICAMENTE HABLANDO EL CAUSANTE ES",
+            "opciones": [
+                {"opcion": "a", "texto": "Grupo lipofílico"},
+                {"opcion": "b", "texto": "Cadena hidrocarbonada intermedia"},
+                {"opcion": "c", "texto": "Grupo hidrófilo o ionizable"},
+                {"opcion": "d", "texto": "Grupo ácido graso saturado"}
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id_global": 46,
+            "tema_id": "farmacologia",
+            "pregunta": "UN NIÑO DE UNA SEMANA DE EDAD, DIAGNOSTICADO DE INFECCIÓN NEONATAL POR RUPTURA PREMATURA DE MEMBRANAS PRESENTA PIEL DE COLOR GRIS Y MALESTAR GENERAL A LAS POCAS HORAS DE HABER RECIBIDO ESTE ANTIBIÓTICO",
+            "opciones": [
+                {"opcion": "a", "texto": "Tetraciclina"},
+                {"opcion": "b", "texto": "Estreptomicina"},
+                {"opcion": "c", "texto": "Cloranfenicol"},
+                {"opcion": "d", "texto": "Midecamicina"}
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id_global": 47,
+            "tema_id": "farmacologia",
+            "pregunta": "PACIENTE DE 73 AÑOS DE EDAD, NECESITA TRATAMIENTO ANTIINFLAMATORIO POR GINGIVITIS EN LA ARCADA SUPERIOR, CONSIDERANDO LA EDAD DEL PACIENTE UNO DE ESTOS FÁRMACOS ESTÁ CONTRAINDICADO POR TENER VIDA MEDIA LARGA, ÉSTA DROGA ES",
+            "opciones": [
+                {"opcion": "a", "texto": "Piroxicam"},
+                {"opcion": "b", "texto": "Tolmetina"},
+                {"opcion": "c", "texto": "Tenoxicam"},
+                {"opcion": "d", "texto": "Meloxicam"}
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id_global": 48,
+            "tema_id": "farmacologia",
+            "pregunta": "UNA PACIENTE EMBARAZADA DE 27 AÑOS DE EDAD, CON DOLOR E INFLAMACIÓN EN LAS ENCÍAS. EL ODONTÓLOGO DE CONFIANZA DIAGNOSTICA GINGIVITIS ULCERATIVA AGUDA. USTED CONSIDERA QUE EL MEJOR TRATAMIENTO ES",
+            "opciones": [
+                {"opcion": "a", "texto": "Amoxicilina"},
+                {"opcion": "b", "texto": "Imipenem"},
+                {"opcion": "c", "texto": "Aztreonam"},
+                {"opcion": "d", "texto": "Penicilina v"}
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id_global": 49,
+            "tema_id": "farmacologia",
+            "pregunta": "UN PACIENTE VARÓN DE 52 AÑOS DE EDAD, DIAGNOSTICADO POR SU GASTROENTERÓLOGO DE GASTRITIS CRÓNICA, PRESENTA INFLAMACIÓN DEL TEJIDO GINGIVAL EN LA ARCADA INFERIOR. USTED DECIDE QUE EL MEJOR TRATAMIENTO FARMACOLÓGICO ES",
+            "opciones": [
+                {"opcion": "a", "texto": "Ácido acetilsalicílico"},
+                {"opcion": "b", "texto": "Ibuprofeno"},
+                {"opcion": "c", "texto": "Piroxicam"},
+                {"opcion": "d", "texto": "Paracetamol"}
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id_global": 50,
+            "tema_id": "farmacologia",
+            "pregunta": "EN UN PACIENTE DEL SEXO FEMENINO, DE 8 AÑOS DE EDAD, CON TRATAMIENTO FARMACOLÓGICO POR PRESENTAR ABSCESO DENTOALVEOLAR DE PIEZA DENTAL Nº 32. SE OBSERVA AL CABO DE POCAS HORAS UNAS MANCHAS DE COLOR PARDO AMARILLENTO EN LOS DIENTES ANTERIORES. USTED CONSIDERA QUE LA CAUSA ES",
+            "opciones": [
+                {"opcion": "a", "texto": "Tetraciclina"},
+                {"opcion": "b", "texto": "Amikacina"},
+                {"opcion": "c", "texto": "Cloranfenicol"},
+                {"opcion": "d", "texto": "Midecamicina"}
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id_global": 51,
+            "tema_id": "farmacologia",
+            "pregunta": "UN PACIENTE MASCULINO DE 40 AÑOS EDAD, SE DESMAYA EN EL CONSULTORIO ODONTOLÓGICO, ANTES DE REALIZAR ALGÚN TIPO DE PROCEDIMIENTO PROFESIONAL, CUAL ES EL TRATAMIENTO ESPECÍFICO:",
+            "opciones": [
+                {"opcion": "a", "texto": "Hay que mantenerlo de pie"},
+                {"opcion": "b", "texto": "Inhalar vapores de sal volátil"},
+                {"opcion": "c", "texto": "Hay que hablarle en voz alta"},
+                {"opcion": "d", "texto": "Se le debe dar masajes"}
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id_global": 52,
+            "tema_id": "farmacologia",
+            "pregunta": "PACIENTE FEMENINO DE 35 AÑOS DE EDAD SE INFARTA EN EL CONSULTORIO ODONTOLÓGICO AL REALIZAR UN TRATAMIENTO DE ENDODONCIA EN LA PIEZA DENTAL Nº 27, UTILIZANDO ANESTÉSICO SIN EPINEFRINA, ES NECESARIO HACER TRATAMIENTO INMEDIATO. USTED CONSIDERA QUE EL TRATAMIENTO MÁS IDÓNEO ES",
+            "opciones": [
+                {"opcion": "a", "texto": "Vigilar la respiración y saber que el paciente es capaz de respirar"},
+                {"opcion": "b", "texto": "Aliviar el dolor"},
+                {"opcion": "c", "texto": "Reducir la ansiedad"},
+                {"opcion": "d", "texto": "Llamar por teléfono una ambulancia"}
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id_global": 53,
+            "tema_id": "farmacologia",
+            "pregunta": "PACIENTE FEMENINO DE 22 AÑOS DE EDAD SE INFARTA EN EL CONSULTORIO ODONTOLÓGICO, AL REALIZAR TRATAMIENTO QUIRÚRGICO EN TERCER MOLAR IMPACTADO, UTILIZANDO ANESTÉSICO SIN EPINEFRINA. PARA TRATAR EL DOLOR PRECORDIAL USTED DECIDE QUE LO MÁS CORRECTO ES UTILIZAR",
+            "opciones": [
+                {"opcion": "a", "texto": "Óxido nitroso"},
+                {"opcion": "b", "texto": "Pentazocina"},
+                {"opcion": "c", "texto": "Morfina"},
+                {"opcion": "d", "texto": "Dextropropoxifeno"}
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id_global": 54,
+            "tema_id": "farmacologia",
+            "pregunta": "UN PACIENTE ADULTO MAYOR, ESTÁ EN EL CONSULTORIO ODONTOLÓGICO, CON DIAGNÓSTICO DE PARO CARDIACO. ESTA ASEVERACIÓN ES POSIBLE POR:",
+            "opciones": [
+                {"opcion": "a", "texto": "El paciente está consciente"},
+                {"opcion": "b", "texto": "Existe ausencia de pulsos arteriales"},
+                {"opcion": "c", "texto": "El paciente si respira"},
+                {"opcion": "d", "texto": "Existe dolor precordial"}
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id_global": 55,
+            "tema_id": "farmacologia",
+            "pregunta": "PACIENTE MASCULINO DE 25 AÑOS, CON UNA REACCIÓN ANAFILÁCTICA AGUDA DESPUÉS DE HABER INYECTADO UNA AMPOLLA DE PENICILINA BENZATINICA DE 1`200.000 UI PARA UN ABSCESO DENTOALVEOLAR AGUDO EN PIEZA DENTAL Nº 14. LA REACCIÓN ALÉRGICA EMPIEZA EN LOS PRIMEROS 30 SEGUNDOS. USTED DECIDE UTILIZAR",
+            "opciones": [
+                {"opcion": "a", "texto": "Adrenalina"},
+                {"opcion": "b", "texto": "Succinato de hidrocortisona"},
+                {"opcion": "c", "texto": "Clorfenhidramina"},
+                {"opcion": "d", "texto": "Prednisona"}
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id_global": 56,
+            "tema_id": "farmacologia",
+            "pregunta": "EN UN PACIENTE FEMENINO DE 35 AÑOS DE EDAD OCURRE UNA REACCIÓN AGUDA DESPUÉS DE APLICAR ANESTÉSICO GENERAL TIPO NARCÓTICO. USTED PIENSA QUE LA CAUSA DE MUERTE PRINCIPAL ES",
+            "opciones": [
+                {"opcion": "a", "texto": "Obstrucción de la nariz"},
+                {"opcion": "b", "texto": "Insuficiencia renal"},
+                {"opcion": "c", "texto": "Paro cardiaco"},
+                {"opcion": "d", "texto": "Infarto de miocardio"}
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id_global": 57,
+            "tema_id": "farmacologia",
+            "pregunta": "EN UN PACIENTE MASCULINO DE 46 AÑOS DE EDAD, DESPUÉS DE UNA EXTRACCIÓN DENTAL DE LA PIEZA DENTAL Nº 33 BAJO ANESTESIA INTRAVENOSA CON METOHEXITAL PRESENTA UN COLAPSO CIRCULATORIO, PORQUE EL PACIENTE ESTUVO EN TRATAMIENTO DURANTE LARGO TIEMPO CON CORTICOESTEROIDE, POR TRASPLANTE RENAL HACE UN AÑO. USTED CONSIDERA QUE EL MEJOR TRATAMIENTO ES",
+            "opciones": [
+                {"opcion": "a", "texto": "Prednisona"},
+                {"opcion": "b", "texto": "Betametasona"},
+                {"opcion": "c", "texto": "Succinato de hidrocortisona"},
+                {"opcion": "d", "texto": "Metohexital"}
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id_global": 58,
+            "tema_id": "farmacologia",
+            "pregunta": "UN PACIENTE MASCULINO DE 36 AÑOS DE EDAD, EN EL SILLÓN DEL CONSULTORIO ODONTOLÓGICO ANTES DE REALIZAR UNA PROFILAXIS DE LA ARCADA SUPERIOR PRESENTA CRISIS CONVULSIVAS TIPO TÓNICO CLÓNICA POR EPILEPSIA GRAN MAL. USTED CONSIDERA QUE EL TRATAMIENTO MÁS ADECUADO ES",
+            "opciones": [
+                {"opcion": "a", "texto": "Diacepam"},
+                {"opcion": "b", "texto": "Fenobarbital"},
+                {"opcion": "c", "texto": "Secobarbital"},
+                {"opcion": "d", "texto": "Pentobarbital"}
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id_global": 59,
+            "tema_id": "farmacologia",
+            "pregunta": "UN PACIENTE FEMENINO DE 32 AÑOS DE EDAD, DIABÉTICA, SUFRE UN DESMAYO EN EL SILLÓN DEL CONSULTORIO ODONTOLÓGICO ANTES DE APLICAR ANESTÉSICO SIN EPINEFRINA. SE REALIZA EXAMEN DE GLICEMIA ESE MOMENTO Y EL RESULTADO ES GLUCOSA: 40 MG/DL. SU DIAGNÓSTICO ES HIPOGLUCEMIA AGUDA. USTED CONSIDERA QUE EL TRATAMIENTO MÁS ADECUADO ES",
+            "opciones": [
+                {"opcion": "a", "texto": "Glucagon"},
+                {"opcion": "b", "texto": "Glucosa por vía oral"},
+                {"opcion": "c", "texto": "Glucosa al 50% por vía intravenosa"},
+                {"opcion": "d", "texto": "Insulina"}
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id_global": 60,
+            "tema_id": "farmacologia",
+            "pregunta": "UN PACIENTE MASCULINO DE 19 AÑOS DE EDAD, SIN PATOLOGÍA EN NINGÚN ÓRGANO O SISTEMA DESPUÉS DE UNA EXODONCIA DE SEGUNDO MOLAR SUPERIOR DERECHO, PRESENTA SANGRADO AGUDO TIPO HEMORRAGIA. COMO TRATAMIENTO EMERGENTE USTED DECIDE UTILIZAR",
+            "opciones": [
+                {"opcion": "a", "texto": "Anestésico local"},
+                {"opcion": "b", "texto": "Secar la herida"},
+                {"opcion": "c", "texto": "Suturar la herida"},
+                {"opcion": "d", "texto": "Factor VIII"}
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id_global": 61,
+            "tema_id": "farmacologia",
+            "pregunta": "UN PACIENTE FEMENINO DE 47 AÑOS DE EDAD, DIAGNOSTICADO POR SU CARDIÓLOGO DE HIPERTENSIÓN ARTERIAL, NECESITA REALIZARSE TRATAMIENTO ODONTOLÓGICO PARA PROFILAXIS DE ARCADA SUPERIOR. USTED CONSIDERA QUE LA MEDIDA MÁS IMPORTANTE PARA LLEVAR A CABO ES",
+            "opciones": [
+                {"opcion": "a", "texto": "Mantener el peso corporal"},
+                {"opcion": "b", "texto": "Debe dejar de fumar"},
+                {"opcion": "c", "texto": "Prescribir drogas antihipertensivas"},
+                {"opcion": "d", "texto": "Dieta baja en azúcares"}
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id_global": 62,
+            "tema_id": "farmacologia",
+            "pregunta": "UN PACIENTE DEL SEXO MASCULINO DE 67 AÑOS DE EDAD, VIENE AL CONSULTORIO ODONTOLÓGICO PARA EXODONCIA DE PIEZA DENTAL Nº 24, N OS REFIERE QUE HA SIDO DIAGNOSTICADO DE HIPERTENSIÓN ARTERIAL LEVE POR SU MÉDICO DE CONFIANZA. USTED CONSIDERA QUE EL MEJOR TRATAMIENTO ES",
+            "opciones": [
+                {"opcion": "a", "texto": "Vasodilatador"},
+                {"opcion": "b", "texto": "Betabloqueantes"},
+                {"opcion": "c", "texto": "Alfabloqueantes"},
+                {"opcion": "d", "texto": "Diurético tiazídico"}
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id_global": 63,
+            "tema_id": "farmacologia",
+            "pregunta": "UN PACIENTE DEL SEXO FEMENINO DE 29 AÑOS DE EDAD, CON DIAGNÓSTICO DE HIPERTENSIÓN ARTERIAL Y NECESITA REALIZAR TRATAMIENTO ODONTOLÓGICO DE ENDODONCIA EN PIEZA DENTAL Nº 26. USTED DECIDE QUE EL MEJOR TRATAMIENTO ES",
+            "opciones": [
+                {"opcion": "a", "texto": "Diuréticos"},
+                {"opcion": "b", "texto": "Bloqueantes beta adrenérgicos"},
+                {"opcion": "c", "texto": "Vasodilatadores"},
+                {"opcion": "d", "texto": "Inhibidor de la ECA"}
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id_global": 64,
+            "tema_id": "farmacologia",
+            "pregunta": "UN PACIENTE DEL SEXO MASCULINO DE 7 AÑOS DE EDAD, DIAGNOSTICADO DE DIABETES MELLITUS POR SU PEDIATRA. NECESITA ATENCIÓN ODO NTOLÓGICA POR CARIES EN PIEZAS DENTALES Nº11 Y 21, LE PREGUNTO A LOS PADRES SI EL PACIENTE VIENE MEDICADO CON",
+            "opciones": [
+                {"opcion": "a", "texto": "Tolbutamida"},
+                {"opcion": "b", "texto": "Clorpropamida"},
+                {"opcion": "c", "texto": "Insulina"},
+                {"opcion": "d", "texto": "Metformina"}
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id_global": 65,
+            "tema_id": "farmacologia",
+            "pregunta": "UN PACIENTE DEL SEXO FEMENINO DE 48 AÑOS DE EDAD, OBESA DIAGNOSTICADA DE DIABETES MELLITUS TIPO II, NECESITA TRATAMIENTO ODONTOLÓGICO TIPO PROFILAXIS EN ARCADA INFERIOR. USTED PIENSA QUE EL MEJOR TRATAMIENTO PARA SU DIABETES ES",
+            "opciones": [
+                {"opcion": "a", "texto": "Tolbutamida"},
+                {"opcion": "b", "texto": "Clorpropamida"},
+                {"opcion": "c", "texto": "Insulina"},
+                {"opcion": "d", "texto": "Metformina"}
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id_global": 66,
+            "tema_id": "farmacologia",
+            "pregunta": "EN UN PACIENTE DEL SEXO FEMENINO, DE 52 AÑOS DE EDAD, ALÉRGICO A PENICILINA, NECESITA TRATAMIENTO FARMACOLÓGICO POR UN PROCESO INFECCIOSO EN EL TEJIDO DEL PISO DE LA BOCA, ANTES DE REALIZAR TRATAMIENTO ODONTOLÓGICO USTED PRESCRIBE",
+            "opciones": [
+                {"opcion": "a", "texto": "Estreptomicina"},
+                {"opcion": "b", "texto": "Clindamicina"},
+                {"opcion": "c", "texto": "Vancomicina"},
+                {"opcion": "d", "texto": "Daptomicina"}
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id_global": 67,
+            "tema_id": "farmacologia",
+            "pregunta": "UNA PACIENTE EMBARAZADA DE 27 AÑOS DE EDAD, CON DOLOR E INFLAMACIÓN EN ENCÍAS. EL ODONTÓLOGO DE CONFIANZA DIAGNOSTICA GINGIVITIS ULCERATIVA. USTED CONSIDERA QUE EL MEJOR TRATAMIENTO ES",
+            "opciones": [
+                {"opcion": "a", "texto": "Naloxona"},
+                {"opcion": "b", "texto": "Niquetamida"},
+                {"opcion": "c", "texto": "Doxaprem"},
+                {"opcion": "d", "texto": "Heroína"}
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id_global": 68,
+            "tema_id": "farmacologia",
+            "pregunta": "UNA PACIENTE EMBARAZADA DE 27 AÑOS DE EDAD, CON DOLOR E INFLAMACIÓN EN ENCÍAS. EL ODONTÓLOGO DE CONFIANZA DIAGNOSTICA GINGIVITIS ULCERATIVA. USTED CONSIDERA QUE EL MEJOR TRATAMIENTO ES",
+            "opciones": [
+                {"opcion": "a", "texto": "Imipenem"},
+                {"opcion": "b", "texto": "Aztreonam"},
+                {"opcion": "c", "texto": "Penicilina"},
+                {"opcion": "d", "texto": "Cefalexina"}
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id_global": 69,
+            "tema_id": "farmacologia",
+            "pregunta": "EN UN LACTANTE DEL SEXO MASCULINO, DIAGNOSTICADO DE INFECCIÓN NEONATAL POR RUPTURA PREMATURA DE MEMBRANAS PRESENTA PIEL DE COLOR GRIS A LAS POCAS HORAS DE HABER RECIBIDO ESTE ANTIBIÓTICO",
+            "opciones": [
+                {"opcion": "a", "texto": "Cloranfenicol"},
+                {"opcion": "b", "texto": "Amikacina"},
+                {"opcion": "c", "texto": "Tetraciclina"},
+                {"opcion": "d", "texto": "Midecamicina"}
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id_global": 70,
+            "tema_id": "farmacologia",
+            "pregunta": "PACIENTE MUJER DE 20 AÑOS, OBSTRUIDA LAS VÍAS RESPIRATORIAS SUPERIORES POR UN HUESO DE POLLO INGERIDO EN EL ALMUERZO. LA MANIOBRA MÁS ADECUADA QUE USTED UTILIZARÍA ES",
+            "opciones": [
+                {"opcion": "a", "texto": "Maniobra de velásquez"},
+                {"opcion": "b", "texto": "Maniobra de caballero"},
+                {"opcion": "c", "texto": "Maniobra de muñoz"},
+                {"opcion": "d", "texto": "Maniobra de heinlich"}
+            ],
+            "respuesta_correcta": "c"
+        }
+        
+
+    ]
+
+}
