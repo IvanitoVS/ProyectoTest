@@ -32,17 +32,16 @@ function seleccionado(boton) {
         c.style.backgroundColor = "white";
         seleccion = dOption;
     }
+    
 }
 
-let opcionesMenu = document.querySelectorAll('.linkMenu');
 let icon = document.querySelector('.icon');
-let menuPrincipal = document.querySelector('#menuPrincipal');
 let expandir = false;
 function desplegarMenu() {
+    let opcionesMenu = document.querySelectorAll('.linkMenu');
     if (!expandir) {
         icon.innerHTML = '<i class="fa-solid fa-x"></i>';
         menuPrincipal.style.zIndex = '9999';
-        menuPrincipal.style.height = '100%';
         menuPrincipal.style.position = 'fixed';
         opcionesMenu.forEach(element => {
             element.style.display = 'block';

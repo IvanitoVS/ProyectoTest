@@ -30,11 +30,15 @@ fetch('../t0.json')
 
 function cambiarPregunta(a, posicion) {
             let posi = parseInt(posicion)-1
-            console.log(posi-1)
-            console.log(dataPreguntas)
+           
             pregunta.innerHTML = dataPreguntas[posi].id_global + ".- " + dataPreguntas[posi].pregunta;
             aOption.innerHTML = dataPreguntas[posi].opciones[0].texto;
             bOption.innerHTML = dataPreguntas[posi].opciones[1].texto;
             cOption.innerHTML = dataPreguntas[posi].opciones[2].texto;
             dOption.innerHTML = dataPreguntas[posi].opciones[3].texto;
+            
+            let tamanio = window.screen.width;
+            if (tamanio <= 933) {
+                desplegarMenu();
+            }
         }

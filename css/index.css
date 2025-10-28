@@ -163,6 +163,10 @@ section div {
         height: auto;
         width: 100%;
         align-items: flex-end;
+        align-items: center;
+    }
+    .burguer {
+     width: 100%; 
     }
     body {
         flex-direction: column;
@@ -204,11 +208,20 @@ section div {
         display: none;
     }
     .linkMenu {
+        padding: 15px;
+        font-weight: bold;
+        text-align: center;
         width: 100%;
-        display: none;
+        margin: 5px 20px;
     }
     .opciones .opt  {
         bottom: 20%;
+    }
+    header{
+        margin-top: 50px;
+    }
+    .botonesOpciones {
+        flex-direction: column;
     }
 
 }
