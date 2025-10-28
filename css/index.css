@@ -164,6 +164,7 @@ section div {
         width: 100%;
         align-items: flex-end;
         align-items: center;
+        max-height: 100vh;
         overflow-y: auto;
         overflow-x: hidden;
     }
