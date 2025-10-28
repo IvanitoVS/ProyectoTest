@@ -34,3 +34,29 @@ function seleccionado(boton) {
     }
 }
 
+let opcionesMenu = document.querySelectorAll('.linkMenu');
+let icon = document.querySelector('.icon');
+let menuPrincipal = document.querySelector('#menuPrincipal');
+let expandir = false;
+function desplegarMenu() {
+    if (!expandir) {
+        icon.innerHTML = '<i class="fa-solid fa-x"></i>';
+        menuPrincipal.style.zIndex = '9999';
+        menuPrincipal.style.height = '100%';
+        menuPrincipal.style.position = 'fixed';
+        opcionesMenu.forEach(element => {
+            element.style.display = 'block';
+        })
+        expandir = true;
+    } else if (expandir) {
+        icon.innerHTML = '<i class="fa-solid fa-bars"></i>';
+        menuPrincipal.style.zIndex = 'none';
+        menuPrincipal.style.height = 'auto';
+        menuPrincipal.style.position = '';
+        opcionesMenu.forEach(element => {
+            element.style.display = 'none';
+        })
+        expandir = false;
+    }
+  
+}

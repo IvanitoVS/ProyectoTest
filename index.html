@@ -19,15 +19,13 @@
     </script>
 </head>
 <body>
-    <nav>
+    <nav id="menuPrincipal">
         <div class="profile">
             <div class="pp"></div>
             <span class="username">Manolo</span>
         </div>
         <a href="#" class="linkMenu inicio">Inicio</a>
-        <a href="#" class="linkMenu">Prueba1</a>
-        <a href="#" class="linkMenu">Prueba2</a>
-        <a href="javascript:void(0);" class="icon" onclick=""><i class="fa-solid fa-bars"></i></a>  
+        <a href="javascript:void(0);" class="icon" onclick="desplegarMenu()"><i class="fa-solid fa-bars"></i></a>  
 
     </nav>
     <main>
@@ -35,26 +33,34 @@
             <p class="pregunta"></p>
         </header>
         <section>
-            <div>
+            <div class="botonesOpciones">
                 <button value="a" class="opciones" id="a" onclick="seleccionado(this)">
-                    <span class="opt">A)</span>
-                    <span class="aOption"></span>
+                    <p class="parrafoOpcion">
+                        <span class="opt">A)</span>
+                    </p>
+                    <p class="aOption"></p>
                 </button>
                 <button value="b" class="opciones" id="b" onclick="seleccionado(this)">
-                    <span class="opt">B)</span>
-                    <span class="bOption"></span>
+                    <p class="parrafoOpcion">
+                        <span class="opt">B)</span>
+                    </p>
+                    <p class="bOption"></p>
                 </button>
                 <!-- <a href="" class="aOption opciones"></a>
                 <a href="" class="bOption opciones"></a> -->
             </div>
-            <div>
+            <div class="botonesOpciones">
                 <button value="c" class="opciones" id="c" onclick="seleccionado(this)">
-                    <span class="opt">C)</span>
-                    <span class="cOption"></span>
+                    <p class="parrafoOpcion">
+                        <span class="opt">C)</span>
+                    </p>
+                    <p class="cOption"></p>
                 </button>
                 <button value="d" class="opciones" id="d" onclick="seleccionado(this)">
-                    <span class="opt">D)</span>
-                    <span class="dOption"></span>
+                   <p class="parrafoOpcion">
+                        <span class="opt">D)</span>
+                    </p>
+                    <p class="dOption"></p>
                 </button>
             <!-- <a href="" class="cOption opciones"></a>
             <a href="" class="dOption opciones"></a> -->

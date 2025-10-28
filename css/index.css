@@ -8,17 +8,23 @@ nav {
     background-color: #333;
     display: flex;
     flex-direction: column;
+    max-width: 100%;
+    position: fixed;
+    overflow-y: auto;
+    overflow-x: hidden;
 }
 .linkMenu{
-    margin: 10px;
+    margin: 5px;
     width: auto;
     height: 40px;
+    padding: 10px;
     text-decoration: none;
     background-color: #04AA6D;
     color: white;
     text-align: center;
     align-content: center;
     order: 3;
+    
 }
 .icon {
     filter: grayscale(1) brightness(50);
@@ -26,6 +32,7 @@ nav {
     text-decoration: none;
     padding: 5px;
     width: 20px;
+    display: none;
 }
 
   .inicio {
@@ -40,6 +47,7 @@ main {
     width: 90%;
     display: flex;
     flex-direction: column;
+    margin-left: 10%;
 }
 .profile {
     display: flex;
@@ -94,9 +102,9 @@ section{
     border: none;
     background-color: white;
     font-size: 1.5rem;
-    width: 150px;
+    width: 300px;
     cursor: pointer;
-    position: relative;
+   
 
 }
 .opciones .opt {
@@ -111,6 +119,9 @@ section{
 }
 section div {
     margin: 5px;
+}
+.botonesOpciones {
+    display: flex;
 }
 
 .botones_inferiores{
@@ -131,40 +142,73 @@ section div {
     -webkit-box-shadow: 0px 0px 10px 3px lightgray;
 }
 
+.parrafoOpcion {
+    margin: 0px;
+    text-align: center;
+    align-content: center;
+    position: fixed;
+}
+.aOption, .bOption, .cOption, .dOption {
+    height: 120px;
+    height: 90%;
+    text-align: center;
+    align-content: center;
+    margin: 0px;
+    
+    
+}
   
 @media only screen and (max-width: 933px) {
     nav {
         height: auto;
         width: 100%;
+        align-items: flex-end;
     }
     body {
         flex-direction: column;
     }
     main, section {
         width: 100%;
-        height: 100%;
-        
+        height: 100%;   
     }
-  .pregunta {
-    font-size: 120%;
-    margin: 20px;
-  }
-  section {
-    margin-top: 20px;
-    align-content: flex-start;
-    height: auto;
-  }
-  section div{
-    width: 93%;
-    margin: 0px;
-  }
-  .opciones {
-    width: 100%;
-    height: 80px;
-    margin: 10px 0px;
-  }
-  .botones_inferiores {
-    margin: 20px;
-  }
+    main {
+        margin-left: 0;
+    }
+    .pregunta {
+        font-size: 120%;
+        margin: 20px;
+    }
+    section {
+        margin-top: 20px;
+        align-content: flex-start;
+        height: auto;
+    }
+    section div{
+        width: 93%;
+        margin: 0px;
+    }
+    .opciones {
+        width: 100%;
+        height: 80px;
+        margin: 10px 0px;
+    }
+    .botones_inferiores {
+        margin: 20px;
+    }
+    .icon {
+        display: inline-block;
+        font-size: large;
+        padding: 15px;
+    }
+    .profile {
+        display: none;
+    }
+    .linkMenu {
+        width: 100%;
+        display: none;
+    }
+    .opciones .opt  {
+        bottom: 20%;
+    }
 
 }
