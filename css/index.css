@@ -213,6 +213,7 @@ section div {
         text-align: center;
         width: 100%;
         margin: 5px 20px;
+        display: none;
     }
     .opciones .opt  {
         bottom: 20%;
