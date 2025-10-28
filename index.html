@@ -10,12 +10,24 @@
     <link rel="stylesheet" href="css/global.css">
     <link rel="stylesheet" href="css/index.css">
     <title>Test Enare - Inicio</title>
+
+    <!-- Fonts Awesome *icons* -->
+     <script src="https://kit.fontawesome.com/9192e2da19.js" crossorigin="anonymous"></script>
+
     <script>
         
     </script>
 </head>
 <body>
     <nav>
+        <div class="profile">
+            <div class="pp"></div>
+            <span class="username">Manolo</span>
+        </div>
+        <a href="#" class="linkMenu inicio">Inicio</a>
+        <a href="#" class="linkMenu">Prueba1</a>
+        <a href="#" class="linkMenu">Prueba2</a>
+        <a href="javascript:void(0);" class="icon" onclick=""><i class="fa-solid fa-bars"></i></a>  
 
     </nav>
     <main>
@@ -23,12 +35,38 @@
             <p class="pregunta"></p>
         </header>
         <section>
-            <a href="" class="aOption opciones"></a>
-            <a href="" class="bOption opciones"></a>
-            <a href="" class="cOption opciones"></a>
-            <a href="" class="dOption opciones"></a>
+            <div>
+                <button value="a" class="opciones" id="a" onclick="seleccionado(this)">
+                    <span class="opt">A)</span>
+                    <span class="aOption"></span>
+                </button>
+                <button value="b" class="opciones" id="b" onclick="seleccionado(this)">
+                    <span class="opt">B)</span>
+                    <span class="bOption"></span>
+                </button>
+                <!-- <a href="" class="aOption opciones"></a>
+                <a href="" class="bOption opciones"></a> -->
+            </div>
+            <div>
+                <button value="c" class="opciones" id="c" onclick="seleccionado(this)">
+                    <span class="opt">C)</span>
+                    <span class="cOption"></span>
+                </button>
+                <button value="d" class="opciones" id="d" onclick="seleccionado(this)">
+                    <span class="opt">D)</span>
+                    <span class="dOption"></span>
+                </button>
+            <!-- <a href="" class="cOption opciones"></a>
+            <a href="" class="dOption opciones"></a> -->
+            </div>
         </section>
+        <div class="botones_inferiores">
+            <button>&lt;&lt; </button>
+            <button onclick="resolver()">Resolver</button>
+            <button>&gt;&gt;</button>
+        </div>
     </main>
     <script src="script/general.js"></script>
+    <script src="script/functions.js"></script>
 </body>
 </html>
