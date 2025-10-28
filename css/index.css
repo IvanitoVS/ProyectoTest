@@ -164,6 +164,8 @@ section div {
         width: 100%;
         align-items: flex-end;
         align-items: center;
+        overflow-y: auto;
+        overflow-x: hidden;
     }
     .burguer {
      width: 100%; 
